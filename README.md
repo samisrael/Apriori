@@ -206,6 +206,6 @@ else:
 
 ### Result:
 
-the Apriori Algorithm in Python using the dataset for identifying frequent itemsets and generating strong association rules based on minimum support and confidence thresholds implemented sucessfully.
+The Apriori Algorithm in Python using the dataset for identifying frequent itemsets and generating strong association rules based on minimum support and confidence thresholds has been implemented sucessfully.
 
 
