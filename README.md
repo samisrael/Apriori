@@ -193,3 +193,19 @@ if rules:
 else:
     print("\nNo strong rules found with the given thresholds.")
 ```
+
+### Output:
+
+<img width="922" height="137" alt="image" src="https://github.com/user-attachments/assets/841bef93-0559-4d7f-85b1-2f1cad46818c" />
+
+<img width="1005" height="482" alt="image" src="https://github.com/user-attachments/assets/d2b07545-d704-4b3e-abf2-20d153af6808" />
+
+<img width="1137" height="852" alt="image" src="https://github.com/user-attachments/assets/4418ac86-eee9-42c6-97e9-e8bd3e80894a" />
+
+<img width="874" height="437" alt="image" src="https://github.com/user-attachments/assets/7efc2f1d-a620-4170-8e18-794cbe8c78cc" />
+
+### Result:
+
+the Apriori Algorithm in Python using the dataset for identifying frequent itemsets and generating strong association rules based on minimum support and confidence thresholds implemented sucessfully.
+
+
